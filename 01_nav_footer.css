@@ -1,2 +1,23 @@
 /* 01_nav_footer.css */
 /* 아래에 코드를 작성해 주세요. */
+
+nav {
+    height: 80px;
+}
+  
+nav img {
+height: 80px;
+}
+
+.active{
+color: white;
+}
+
+.navbar {
+	margin:0 !important;
+	padding: 0px !important;
+}
+
+.navbar-inverse .navbar-toggler-icon{
+    padding: 30px !important;
+}
